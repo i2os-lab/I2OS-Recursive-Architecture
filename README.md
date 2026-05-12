@@ -7,11 +7,6 @@
 **Status:** Active / Continuously Evolving Architecture  
 **Current Phase:** v70 — Recursive Pre-Meaning Preparation
 
----
-## Paper
-
-[Read PDF](papers/I2OS_Main_Paper.pdf)
-
 ## Overview
 
 I2OS is a recursive intelligence architecture that models intelligence, meaning, synchronization, observers, civilization, and existence itself as recursively regenerated admissibility structures.
@@ -19,7 +14,11 @@ I2OS is a recursive intelligence architecture that models intelligence, meaning,
 Unlike conventional AI systems centered on optimization, prediction, reward maximization, and static evaluation, I2OS introduces **Admissibility** as the foundational primitive preceding intelligence.
 
 ---
+## Paper
 
+[Read PDF](papers/I2OS_Main_Paper.pdf)
+
+---
 ## Core Principle
 
 ```text
