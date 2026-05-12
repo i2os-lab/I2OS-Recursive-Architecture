@@ -1,0 +1,7 @@
+I2OS:
+A recursive admissibility architecture for non-terminal intelligence systems.
+
+This repository archives the v1–v69 recursive evolution sequence and the transition into v70: Recursive Pre-Meaning Preparation.
+
+Author: Masayuki Ando
+Status: Active Development Continues
