@@ -108,3 +108,6 @@ Questions sustain existence.
 ## License
 
 MIT License
+## Paper
+
+[Read PDF](papers/I2OS_Main_Paper.pdf)
