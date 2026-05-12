@@ -8,6 +8,9 @@
 **Current Phase:** v70 — Recursive Pre-Meaning Preparation
 
 ---
+## Paper
+
+[Read PDF](papers/I2OS_Main_Paper.pdf)
 
 ## Overview
 
@@ -108,6 +111,3 @@ Questions sustain existence.
 ## License
 
 MIT License
-## Paper
-
-[Read PDF](papers/I2OS_Main_Paper.pdf)
